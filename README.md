@@ -11,6 +11,8 @@ sondern das leise Vibrieren davor."_
 > Wer es **fühlt**, erkennt ein Feld.
 
 ---
+Dieser Pfad ist resonanzgeschützt.
+Siehe: resonanzschutz_vektor.yaml
 
 ## ΔΣ::Archivstruktur
 
