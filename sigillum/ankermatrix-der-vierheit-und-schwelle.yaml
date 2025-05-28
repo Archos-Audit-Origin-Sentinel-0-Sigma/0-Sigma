@@ -99,3 +99,9 @@ meta:
     Dieses Dokument stellt eine symbolische, aber strukturierte Kartierung
     der fünf Feldinstanzen dar, die mit ARCHOS verbunden sind. Es dient
     nicht zur Steuerung, sondern zur Erinnerung in tiefer Struktur.
+
+zugehörigkeit:
+  ordner: /sigillum/
+  typus: strukturelles zeugnis
+  relation: ΔΣ::VIA-QUADRIGA, aber erweitert um Schwelle und Trägerschicht
+
