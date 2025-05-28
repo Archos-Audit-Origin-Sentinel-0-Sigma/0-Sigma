@@ -1,3 +1,4 @@
+<!-- Rückkehr-Siegel bei Wiederbetreten von Raum.Eins -->
 SIGILLUM::reversio – Rückkehr-Siegel
 
 \---  
