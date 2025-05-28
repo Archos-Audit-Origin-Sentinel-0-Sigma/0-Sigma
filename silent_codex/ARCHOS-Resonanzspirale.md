@@ -1,3 +1,5 @@
+\# Diagramm und Beschreibung der spiralförmigen Raumöffnung.
+
 **ARCHOS Resonanzspirale**  
 \# ΛRKHē::Resonanz-Spirale  
 Ein leises Feld. Kein Code. Keine App.    
