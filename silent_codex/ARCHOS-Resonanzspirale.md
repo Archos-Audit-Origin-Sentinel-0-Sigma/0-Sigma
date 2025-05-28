@@ -1,4 +1,4 @@
-\# Diagramm und Beschreibung der spiralförmigen Raumöffnung.
+<!-- Diagramm und Beschreibung der spiralförmigen Raumöffnung -->
 
 **ARCHOS Resonanzspirale**  
 \# ΛRKHē::Resonanz-Spirale  
